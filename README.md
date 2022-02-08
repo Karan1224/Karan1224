@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @Karan1224
+- 👋 Hi, I’m Karan Patil
 - 👀 I’m interested in competitive programming
-- 🌱 I’m currently learning Master of Computer Applications
+- 🌱 I have done my PG in Master of Computer Applications
 - 📫 How to reach me - patilkaran082@gmail.com
 
 <!---
